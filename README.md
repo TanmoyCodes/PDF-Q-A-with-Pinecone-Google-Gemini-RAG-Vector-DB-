@@ -138,4 +138,5 @@ Ask me anything--> What is a binary search tree?
 
 ## 📜 License
 
-MIT License © [Your Name]
+MIT License © Tanmoy
+
